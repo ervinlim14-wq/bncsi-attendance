@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.grey-cell {
+    background-color: lightgrey;
+}
+
+.lightblue-cell {
+    background-color: lightblue;
+}
+
+.name-row {
+    background-color: black; /* Black background for selected row */
+    color: lightgrey; /* White text color for selected row */
+}
